@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1 text-3xl font-bold underline>$BINU Launchpad</h1>
-    <p >The easiest way to create your ERC20, ERC721 and ERC1155 Token without any line of code!</p>
+    <p >The easiest way to create your ERC20, ERC721 and ERC1155 Token without a line of code!</p>
     <button @click="login">Get Started</button>
   </div>
 </template>
